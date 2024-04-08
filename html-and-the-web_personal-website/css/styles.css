@@ -1,0 +1,15 @@
+h1 {
+  color: black;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+}
+.navigation__link {
+  background-color: #ff4a11;
+  color: #ffffff;
+  padding: 5px 14px;
+  border-radius: 5px;
+}
